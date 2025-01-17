@@ -1,0 +1,132 @@
+nav{
+    display: flex;
+   justify-content:space-between;
+   padding-bottom: 20px;
+}
+.btn-primary{
+    background-color: rgb(51, 145, 92);
+    font-weight: bold;
+    color: aliceblue;
+    opacity: 100%;
+    padding: 20px 17px;
+    border-radius: 5%;
+   border: none;
+    
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   background-color: rgba(183, 228, 183, 0.941);
+}
+.banner-content{
+    max-width: 480px;
+}
+.banner-grettings{
+    font-size: larger;
+    font-weight: 400;
+}
+.banner-title{
+    font: size 56px; 
+    font-weight: bold;
+}
+.banner-pp{
+ width: 474px;   
+}
+.charpash{
+    margin: 20px;
+    padding: 20px 20px 20px 20px;
+}
+.about-bd{
+    display: flex;
+   justify-content: space-between;
+    gap: 24px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    max-width: 1200px;
+    height: 400px;
+    
+    
+    
+}
+.bg-3{
+    background-color: rgb(153, 163, 205);
+    border-radius: 5%;
+    padding: 30px;
+}
+.btn-3{
+    background-color: cornflowerblue;
+    border-radius: 8%;
+    border: none;
+}
+.bg-4{
+    background-color: rgb(144, 230, 198);
+    border-radius: 5%;
+    padding: 30px;
+}
+.btn-4{
+    background-color: rgb(54, 209, 123);
+    border-radius: 8%;
+    border: none;
+}
+.bg-5{
+    background-color: rgb(240, 182, 96);
+    border-radius: 5%;
+    padding: 30px;
+}
+.btn-5{
+    background-color: darkorange;
+    border-radius: 8%;
+    border: none;
+}
+.challenges{
+    
+        margin: 20px 20px;
+        padding: 10px 20px;
+        border-radius: 10px;
+        background-color: white;
+        background-image: url(../assets/quote-bg.png) ;
+        background-repeat: no-repeat;
+        background-position-x: 20px;
+    
+    
+}
+.halka{margin-top: auto;
+padding: 20px 20px 20px 20px;}
+.bd-st1{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 20px 20px;
+    gap: 80px;
+    border-radius: 10%;
+}
+.satelite-design{
+    border-radius: 10%;
+}
+
+    .primary-btn:hover{
+        background-color: #22a467;
+        color: white;
+    
+
+      }
+     
+.text-center{
+    text-align: center;
+
+}
+.flex-korbo{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    justify-content: center;
+    border-radius: 10px;
+    border: none;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.hudai-vejal{
+    background-color: aquamarine;
+    
+}
